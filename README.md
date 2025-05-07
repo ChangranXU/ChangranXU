@@ -20,8 +20,6 @@ My passion lies in exploring **LLMs, machine learning, and computer vision**. I 
 💻 Check out my work on my website:
 🌐 [changranxu.github.io](https://changranxu.github.io/)  
 
-### 🐍 Contribution Snake
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChangranXU/ChangranXU/master/assets/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChangranXU/ChangranXU/master/assets/github-contribution-grid-snake.svg">
