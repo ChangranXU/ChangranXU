@@ -9,7 +9,7 @@ I’m a Computer Science and Engineering student at **CUHK**. My passion lies in
 - **Multimodal AI**: Integrating diverse data types for richer, more comprehensive models.
 - **Efficient and Affordable LLM**: Optimizing models to reduce costs while maintaining high performance.
  
-💻 **Check out my work and projects on my website**:
+💻 **Check out my work on my website**:
 🌐 [changranxu.github.io](https://changranxu.github.io/)  
 
 📫 **Feel free to connect via email**:
