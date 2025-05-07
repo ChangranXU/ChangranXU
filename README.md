@@ -3,8 +3,7 @@
 I’m a Computer Science and Engineering student at **CUHK**. My passion lies in exploring **LLMs, machine learning, and computer vision**. I love working on projects that push the boundaries of AI and enhance real-world applications.
 
 🌱 Currently, I am focusing on:
-- **LLM for Code**: Building models to improve code generation and understanding.
-- **LLM for Verification**: Ensuring the reliability of AI-generated code.
+- **LLM for Code**: Building models to improve code generation, understanding, and reliability.
 - **Multimodal AI**: Integrating diverse data types for richer, more comprehensive models.
 - **Efficient and Affordable LLM**: Optimizing models to reduce costs while maintaining high performance.
  
