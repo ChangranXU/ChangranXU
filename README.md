@@ -17,7 +17,7 @@ My passion lies in exploring **LLMs, machine learning, and computer vision**. I 
  - **Multimodal AI**: Integrating diverse data types for richer, more comprehensive models.
  - **Efficient and Affordable LLM**: Optimizing models to reduce costs while maintaining high performance.
  
-🌐 Check out my work on my website:
+🌐 Check out more on my website:
  - [changranxu.github.io](https://changranxu.github.io/)  
 
 <picture>
