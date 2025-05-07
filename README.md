@@ -13,12 +13,12 @@ My passion lies in exploring **LLMs, machine learning, and computer vision**. I 
 
 🌱 Currently, I am focusing on:
 
-- **LLM for Code**: Building models to improve code generation, understanding, and reliability.
-- **Multimodal AI**: Integrating diverse data types for richer, more comprehensive models.
-- **Efficient and Affordable LLM**: Optimizing models to reduce costs while maintaining high performance.
+ - **LLM for Code**: Building models to improve code generation, understanding, and reliability.
+ - **Multimodal AI**: Integrating diverse data types for richer, more comprehensive models.
+ - **Efficient and Affordable LLM**: Optimizing models to reduce costs while maintaining high performance.
  
 💻 Check out my work on my website:
-🌐 [changranxu.github.io](https://changranxu.github.io/)  
+ - 🌐 [changranxu.github.io](https://changranxu.github.io/)  
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChangranXU/ChangranXU/master/assets/github-contribution-grid-snake-dark.svg">
