@@ -5,7 +5,6 @@ I’m a Computer Science and Engineering student at **CUHK**. My passion lies in
 🌱 Currently, I am focusing on:
 - **LLM for Code**: Building models to improve code generation and understanding.
 - **LLM for Verification**: Ensuring the reliability of AI-generated code.
-- **GNN (Graph Neural Networks)**: Applying graph-based methods to enhance model performance.
 - **Multimodal AI**: Integrating diverse data types for richer, more comprehensive models.
 - **Efficient and Affordable LLM**: Optimizing models to reduce costs while maintaining high performance.
  
