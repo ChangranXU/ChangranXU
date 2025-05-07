@@ -4,7 +4,7 @@
 
 ### 📫 Contact
 
-📩 [crxu@link.cuhk.edu.hk](mailto:crxu@link.cuhk.edu.hk) 
+- [crxu@link.cuhk.edu.hk](mailto:crxu@link.cuhk.edu.hk) 
 
 
 ### 🚀 About Me
@@ -12,11 +12,12 @@
 My passion lies in exploring **LLMs, machine learning, and computer vision**. I love working on projects that push the boundaries of AI and enhance real-world applications.
 
 🌱 Currently, I am focusing on:
+
 - **LLM for Code**: Building models to improve code generation, understanding, and reliability.
 - **Multimodal AI**: Integrating diverse data types for richer, more comprehensive models.
 - **Efficient and Affordable LLM**: Optimizing models to reduce costs while maintaining high performance.
  
-💻 **Check out my work on my website**:
+💻 Check out my work on my website:
 🌐 [changranxu.github.io](https://changranxu.github.io/)  
 
 ### 🐍 Contribution Snake
