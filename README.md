@@ -25,3 +25,9 @@ My passion lies in exploring **LLMs, machine learning, and computer vision**. I 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChangranXU/ChangranXU/master/assets/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ChangranXU/ChangranXU/master/assets/github-contribution-grid-snake.svg">
 </picture>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ChangranXU/count.svg" />
+</p>
+
