@@ -27,7 +27,7 @@ My passion lies in exploring **LLMs, machine learning, and computer vision**. I 
 </picture>
 
 <p align="center"> 
-  Visitor count<br>
+  Visits since 2025-05-14<br>
   <img src="https://profile-counter.glitch.me/ChangranXU/count.svg" />
 </p>
 
