@@ -1,5 +1,5 @@
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8BHello!+I'm+Changran+Xu.)](https://git.io/typing-svg) -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8BHello!+I'm+Changran+Xu.;%F0%9F%8E%93+A+CS+student+at+CUHK.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8BHello!+I'm+Changran+Xu.;%F0%9F%8E%93+A+CS+student+at+CUHK.)](https://git.io/typing-svg) <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ChangranXU.ChangranXU">
 
 
 ### 📫 Contact
